@@ -24,6 +24,8 @@ $ pip3 install -r requirements.txt
 
 ```sh
 $ python htcode.py
+
+target filename must be a text list of domain/subdomain.
 ```
 
 
