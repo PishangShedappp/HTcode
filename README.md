@@ -1,6 +1,6 @@
-# HTcode
+# HTcode-Python
 
-HTcode is a tools that check status code like 200, 302, 403 and 404
+HTcode-Python is a python tools that check status code like 200, 302, 403 and 404
 
 ![HTcode](https://raw.githubusercontent.com/PishangShedappp/HTcode/main/image/banner.png)
 
