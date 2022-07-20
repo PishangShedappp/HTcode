@@ -8,7 +8,7 @@ HTcode-Python is a python tools that check status code like 200, 302, 403 and 40
 
 - Check for status code 
 - Auto write output to txt file
-- Make subdomain takeover easier
+- Make status code easier
 
 ## Installation
 
